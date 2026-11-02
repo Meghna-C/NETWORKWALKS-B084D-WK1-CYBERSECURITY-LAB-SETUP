@@ -1,6 +1,5 @@
 # NETWORKWALKS-B084D-WK1-CYBERSECURITY-LAB-SETUP
-CyberSecurity Lab setup
-
+# Cybersecurity Lab Setup – Week 1
 This repository documents my Week 1, Project Module 1 lab for the NetworkWalks Cybersecurity Program.
 
 ### Setup
